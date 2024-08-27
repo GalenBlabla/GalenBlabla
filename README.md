@@ -8,4 +8,4 @@
 Email: alonmadeit@gmail.com
 </a>
 
-[Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GalenBlabla&repo=github-readme-stats)
+[Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GalenBlabla&repo=potato)
