@@ -5,6 +5,6 @@
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalenBlabla&layout=compact" />
 </a>
 <a>
-- **Email:** alonmadeit@gmail.com
+Email: alonmadeit@gmail.com
 </a>
 
